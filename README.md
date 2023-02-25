@@ -19,8 +19,8 @@ Esta es mi solución al challenge de Frontend Mentor, [QR code component challen
 
 ### Links
 
-- Solution URL: [Mi Solución](https://www.frontendmentor.io/solutions/qr-code-component-solucin-QeX61CdL6e)
-- Live Site URL: [QR Code Component](https://kiaramimbela.github.io/QR-Code-Component/)
+- Solución URL: [Mi Solución](https://www.frontendmentor.io/solutions/qr-code-component-solucin-QeX61CdL6e)
+- Código URL: [QR Code Component](https://kiaramimbela.github.io/QR-Code-Component/)
 
 ## Mi proceso
 
