@@ -19,7 +19,7 @@ Esta es mi solución al challenge de Frontend Mentor, [QR code component challen
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [QR Code Component](https://kiaramimbela.github.io/QR-Code-Component/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## Mi proceso
