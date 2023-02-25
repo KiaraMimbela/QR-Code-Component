@@ -15,7 +15,7 @@ Esta es mi solución al challenge de Frontend Mentor, [QR code component challen
 
 ### Screenshot
 
-![screenshot](assets/flnal.png)
+![screenshot](https://github.com/KiaraMimbela/QR-Code-Component/blob/main/assets/fInal.png)
 
 ### Links
 
@@ -32,5 +32,5 @@ Esta es mi solución al challenge de Frontend Mentor, [QR code component challen
 
 ## Autora
 
-- Website - [KiaraMimbela](https://www.your-site.com)
+- Linkedin - [KiaraMimbela](https://www.linkedin.com/in/k-mv/)
 - Frontend Mentor - [@KiaraMimbela](https://www.frontendmentor.io/profile/KiaraMimbela)
