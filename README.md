@@ -11,4 +11,4 @@ Esta es mi solución al challenge de Frontend Mentor, [QR code component challen
 
 ## Resumen
 ### Screenshot
-![image](./final.png)
+![image](./flnal.png)
